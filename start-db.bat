@@ -1,0 +1,3 @@
+@echo off
+echo Starting MySQL Server on port 3306...
+"C:\Program Files\MySQL\MySQL Server 8.4\bin\mysqld.exe" --console --datadir="c:\Users\alluv\projects\employment leave tracking\mysql-data" --port=3306
