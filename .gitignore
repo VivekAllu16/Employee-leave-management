@@ -1,0 +1,20 @@
+# Build directories
+backend/target/
+frontend/dist/
+
+# Dependencies
+frontend/node_modules/
+.maven/
+
+# Local databases & logs
+mysql-data/
+*.log
+
+# Editor configs & temp files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
